@@ -16,7 +16,7 @@ def random_predict(number:int=np.random.randint(1, 101)) -> int:
     """
 
     count = 0
-    lst_num = list(range(1, 101))
+    lst_num = list(range(1, 101)) # список чисел, одно из которых загадал компьютер
 
     while True:
         count += 1
@@ -25,11 +25,11 @@ def random_predict(number:int=np.random.randint(1, 101)) -> int:
         if number == predict_number:
             break # выход из цикла, если угадали
         elif predict_number > number:
-            lst_num = lst_num[half:]  
+            lst_num = lst_num[half:]  # сокращаем список
         else:
             lst_num = lst_num[:half]
             
         
     return count
 
-print(random_predict(1000))
+print(random_predict())
