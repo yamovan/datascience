@@ -36,7 +36,7 @@
 
 ### 4. Этапы работы над проектом
 - Написание кода для решения задачи в VS Code
-- Загрузка кода решения на GitHub
+- Загрузка кода решения на GitHub: https://github.com/yamovan/datascience/blob/main/project_0/game_final.py
 - Оформление GitHub
 
 ### 5. Результат
