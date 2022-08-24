@@ -34,23 +34,4 @@ def random_predict(number) -> int:
 print(f'Количество попыток: {random_predict(number)}')
 
 
-def score_game(random_predict) -> int:
-    """За какое количество попыток в среднем из 1000 подходов компьютер угадывает рандомное число из диапазона от 1 до 100
 
-    Args:
-        random_predict (_type_): функция угадывания числа
-
-    Returns:
-        int: среднее число попыток
-    """
-    count_ls = [] # список для сохранения количества попыток
-    
-    np.random.seed(1) # фиксируем сид для воспроизводимости
-    random_array = np.random.randint(1, 101, size=(1000)) # загадали список чисел
-    for number in random_array:
-        count_ls.append(random_predict(number))
-    score = int(np.mean(count_ls)) # находим среднее количество попыток
-    print(f'Ваш алгоритм угадывает число в среднем за: {score} попыток')
-    return score
-
-score_game(random_predict)
