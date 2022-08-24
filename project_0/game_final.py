@@ -1,7 +1,3 @@
-""""Игра угадай число
-Компьютер сам загадывает и сам угадывает число за минимальное число попыток
-"""
-
 import numpy as np
 number = np.random.randint(1, 101) # загадываем рандомное число
 def random_predict(number) -> int:
@@ -13,7 +9,6 @@ def random_predict(number) -> int:
     Returns:
         int: Число попыток
     """
-   
     count = 0
     min_num = 1 # минимальное число в диапазоне поиска чисел
     max_num = 100 # максимальное число в диапазоне поиска чисел
@@ -28,8 +23,8 @@ def random_predict(number) -> int:
         else:
             break # выход из цикла, компьютер определил загаданное число
             
-        
     return count
+
 
 print(f'Количество попыток: {random_predict(number)}')
 
