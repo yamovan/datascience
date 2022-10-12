@@ -53,6 +53,7 @@
 
 ### 5. Результат
 Завершен первый data science проект
+[Ноутбук с выполненными заданиями и выводами](https://github.com/yamovan/datascience/blob/main/project_1/Project_1_HeadHunter_job.ipynb)
 
 ### 6. Выводы
 Решена часть настоящей бизнес-задачи и примерена роль аналитика в компании HeadHunter.
