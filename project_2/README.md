@@ -56,7 +56,7 @@
 
 ### 5. Результат
 Завершен второй data science проект
-[Ноутбук с выполненными заданиями и выводами](https://github.com/yamovan/datascience/blob/main/project_2/Project_1_HeadHunter_job.ipynb)
+[Ноутбук с выполненными заданиями и выводами](https://github.com/yamovan/datascience/blob/main/project_2/Project_2_HH_job_analysis.ipynb)
 
 ### 6. Выводы
 Решена часть настоящей бизнес-задачи и примерена роль работника кадрового агенства.
