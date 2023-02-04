@@ -34,6 +34,7 @@
 
 
 ### 3. Краткая информация о данных
+Исходные данные находятся [здесь](https://www.kaggle.com/competitions/sf-booking/data):
 - hotels_train.csv - набор данных для обучения
 - hotels_test.csv - набор данных для оценки качества
 - submission.csv - файл сабмишна в нужном формате
@@ -49,7 +50,7 @@
 
 ### 5. Результат
 Завершен третий data science проект, принято участие в соревновании на Kaggle
-[Ноутбук с выполненными заданиями и выводами](https://github.com/yamovan/datascience/blob/main/project_2/Project_3_HH_job_analysis.ipynb)
+[Ноутбук с выполненными заданиями и выводами](https://github.com/yamovan/datascience/blob/main/project_3/Project_3_hotel_reviews.ipynb)
 [Ноутбук соревнования на Kaggle](https://www.kaggle.com/code/yamovan/hotel-reviews/notebook)
 
 ### 6. Выводы
