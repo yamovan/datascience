@@ -27,9 +27,12 @@
 
 ### 3. Краткая информация о данных
 Предоставлен набор данных, содержащий информацию о поездках на жёлтом такси в Нью-Йорке за 2016 год. Первоначально данные были выпущены Комиссией по Такси и Лимузинам Нью-Йорка и включают в себя информацию о времени поездки, географических координатах, количестве пассажиров и несколько других переменных.  
-Исходные данные находятся [здесь](https://drive.google.com/file/d/1X_EJEfERiXki0SKtbnCL9JDv49Go14lF/view)
-Исходный файл с праздничными датами находится [здесь](https://lms-cdn.skillfactory.ru/assets/courseware/v1/33bd8d5f6f2ba8d00e2ce66ed0a9f510/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block/holiday_data.csv)
-Файлы с данными из OSRM для поездок из тренировочной таблицы [здесь](https://drive.google.com/file/d/1ecWjor7Tn3HP7LEAm5a0B_wrIfdcVGwR/view?usp=sharing)
+Исходные данные находятся [здесь](https://drive.google.com/file/d/1X_EJEfERiXki0SKtbnCL9JDv49Go14lF/view)  
+
+Исходный файл с праздничными датами находится [здесь](https://lms-cdn.skillfactory.ru/assets/courseware/v1/33bd8d5f6f2ba8d00e2ce66ed0a9f510/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block/holiday_data.csv)  
+
+Файлы с данными из OSRM для поездок из тренировочной таблицы [здесь](https://drive.google.com/file/d/1ecWjor7Tn3HP7LEAm5a0B_wrIfdcVGwR/view?usp=sharing)  
+
 [Набор данных](https://lms-cdn.skillfactory.ru/assets/courseware/v1/0f6abf84673975634c33b0689851e8cc/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block/weather_data.zip), содержащий информацию о погодных условиях в Нью-Йорке в 2016 году.
 
 ### 4. Этапы работы над проектом
@@ -42,7 +45,7 @@
 ### 5. Результат
 * Завершен пятый data science проект.  
   
-[Ноутбук с выполненными заданиями и выводами](https://github.com/yamovan/datascience/blob/main/project_5/Project_5 trip_duration.ipynb)  
+[Ноутбук с выполненными заданиями и выводами](https://github.com/yamovan/datascience/blob/main/project_5/Project_5%20trip_duration.ipynb)  
 
 ### 6. Выводы
 Создан кейс по машинному обучению
