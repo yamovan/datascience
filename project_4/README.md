@@ -42,4 +42,4 @@
 Создан кейс по машинному обучению
 
 
-[к оглавлению](https://github.com/yamovan/datascience/blob/main/project_3/README.md#Оглавление)
+[к оглавлению](https://github.com/yamovan/datascience/blob/main/project_4/README.md#Оглавление)
