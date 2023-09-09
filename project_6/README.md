@@ -38,7 +38,7 @@
 ### 5. Результат
 * Завершен шестой data science проект.  
   
-[Ноутбук с выполненными заданиями и выводами](https://github.com/yamovan/datascience/blob/main/project_6/Project_6%20Customer_segmentation.ipynb)  
+[Ноутбук с выполненными заданиями и выводами](https://github.com/yamovan/datascience/blob/main/project_6/Project-6._Customer%20segmentation.ipynb)  
 
 ### 6. Выводы
 Создан кейс по машинному обучению
