@@ -9,6 +9,7 @@
 * [Проект 4. Прогнозирование открытия вклада клиентом банка](https://github.com/yamovan/datascience/tree/main/project_4)
 * [Проект 5. Прогнозирование продолжительности поездки на такси в Нью-Йорке](https://github.com/yamovan/datascience/tree/main/project_5)
 * [Проект 6. Сегментирование клиентов онлайн-магазина подарков](https://github.com/yamovan/datascience/tree/main/project_6)
+* [Финальный проект. Прогнозирование стоимости жилья для агенства недвижимости](https://github.com/yamovan/datascience/tree/main/final_project)
 
 ## Практика
 
