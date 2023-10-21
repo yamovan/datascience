@@ -32,7 +32,7 @@
 ### 5. Результат
 * Завершен финальный data science проект.  
   
-[Ноутбук с выполненными заданиями и выводами](https://github.com/yamovan/datascience/blob/main/final_project/Housing_cost.ipynb)  
+[Оформленный ноутбук с выводами](https://github.com/yamovan/datascience/blob/main/final_project/Housing_cost.ipynb)  
 
 ### 6. Выводы
 Создан кейс по машинному обучению
