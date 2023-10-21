@@ -32,10 +32,10 @@
 ### 5. Результат
 * Завершен финальный data science проект.  
   
-[Ноутбук с выполненными заданиями и выводами](https://github.com/yamovan/datascience/blob/main/final_project/Project-6._Customer%20segmentation.ipynb)  
+[Ноутбук с выполненными заданиями и выводами](https://github.com/yamovan/datascience/blob/main/final_project/Housing_cost.ipynb)  
 
 ### 6. Выводы
 Создан кейс по машинному обучению
 
 
-[к оглавлению](https://github.com/yamovan/datascience/blob/main/project_6/README.md#Оглавление)
+[к оглавлению](https://github.com/yamovan/datascience/blob/main/final_project/README.md#Оглавление)
